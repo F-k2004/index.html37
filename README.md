@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <title>🔵 NASA / ESA Ion Engine</title>
 <style>
-  tml,body{
+  html,body{
     margin:0;
     overflow:hidden;
     background:#00060f;
